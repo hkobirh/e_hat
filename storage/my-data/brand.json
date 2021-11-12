@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Sony Plus",
+        "slug": "sony-plus",
+        "status": "active",
+        "icon": "logo.png",
+        "user_id": "1"
+    },
+    {
+        "name": "Samsung Bangladesh",
+        "slug": "samsung-bangladesh",
+        "status": "active",
+        "icon": "logo.png",
+        "user_id": "1"
+    },
+    {
+        "name": "Sony",
+        "slug": "sony",
+        "status": "active",
+        "icon": "logo.png",
+        "user_id": "1"
+    },
+    {
+        "name": "Walton",
+        "slug": "walton",
+        "status": "inactive",
+        "icon": "logo.png",
+        "user_id": "1"
+    },
+    {
+        "name": "Singer Plus",
+        "slug": "singer-plus",
+        "status": "active",
+        "icon": "logo.png",
+        "user_id": "1"
+    },
+    {
+        "name": "Symphony",
+        "slug": "symphony",
+        "status": "active",
+        "icon": "logo.png",
+        "user_id": "1"
+    },
+    {
+        "name": "Hero Honda",
+        "slug": "hero-honda",
+        "status": "active",
+        "icon": "logo.png",
+        "user_id": "1"
+    },
+    {
+        "name": "Pran Rfl",
+        "slug": "pran-rfl",
+        "status": "active",
+        "icon": "logo.png",
+        "user_id": "1"
+    },
+    {
+        "name": "Panasonic",
+        "slug": "panasonic",
+        "status": "active",
+        "icon": "logo.png",
+        "user_id": "1"
+    },
+    {
+        "name": "Haque Brothers",
+        "slug": "haque-brothers",
+        "status": "inactive",
+        "icon": "logo.png",
+        "user_id": "1"
+    },
+    {
+        "name": "Bangladesh Cement",
+        "slug": "bangladesh-cement",
+        "status": "active",
+        "icon": "logo.png",
+        "user_id": "1"
+    },
+    {
+        "name": "Megna Group",
+        "slug": "megna-group",
+        "status": "active",
+        "icon": "logo.png",
+        "user_id": "1"
+    }
+]

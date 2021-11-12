@@ -1,0 +1,2466 @@
+[
+    {
+        "id": "1",
+        "root": "0",
+        "name": "Electronic Devices",
+        "slug": "electronic-devices",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "2",
+        "root": "0",
+        "name": "Electronic Accessories",
+        "slug": "electronic-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "3",
+        "root": "0",
+        "name": "TV & Home Appliances",
+        "slug": "tv-home-appliances",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "4",
+        "root": "0",
+        "name": "Health & Beauty",
+        "slug": "health-amp-beauty",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "5",
+        "root": "0",
+        "name": "Babies & Toys",
+        "slug": "babies-toys",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "6",
+        "root": "0",
+        "name": "Groceries & Pets",
+        "slug": "groceries-pets",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "7",
+        "root": "0",
+        "name": "Home & Lifestyle",
+        "slug": "home-lifestyle",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "8",
+        "root": "0",
+        "name": "Women's Fashion",
+        "slug": "women-s-fashion",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "9",
+        "root": "0",
+        "name": "Men's Fashion",
+        "slug": "men-s-fashion",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "10",
+        "root": "0",
+        "name": "Watches & Accessories",
+        "slug": "watches-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "11",
+        "root": "0",
+        "name": "Sports & Outdoor",
+        "slug": "sports-outdoor",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "12",
+        "root": "0",
+        "name": "Automotive & Motorbike",
+        "slug": "automotive-motorbike",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "13",
+        "root": "1",
+        "name": "Smartphones",
+        "slug": "smartphones",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "14",
+        "root": "1",
+        "name": "Feature Phone",
+        "slug": "feature-phone",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "15",
+        "root": "1",
+        "name": "Tablets",
+        "slug": "tablets",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "16",
+        "root": "1",
+        "name": "Laptops",
+        "slug": "laptops",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "17",
+        "root": "1",
+        "name": "Desktops",
+        "slug": "desktops",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "18",
+        "root": "1",
+        "name": "Gaming Consoles",
+        "slug": "gaming-consoles",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "19",
+        "root": "1",
+        "name": "Cameras",
+        "slug": "cameras",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "20",
+        "root": "1",
+        "name": "Security Cameras",
+        "slug": "security-cameras",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "21",
+        "root": "13",
+        "name": "Realme Phones",
+        "slug": "realme-phones",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "22",
+        "root": "13",
+        "name": "Samsung Phones",
+        "slug": "samsung-phones",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "23",
+        "root": "13",
+        "name": "Xiaomi Phones",
+        "slug": "xiaomi-phones",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "24",
+        "root": "13",
+        "name": "OPPO Phones",
+        "slug": "oppo-phones",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "25",
+        "root": "13",
+        "name": "Vivo Phones",
+        "slug": "vivo-phones",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "26",
+        "root": "13",
+        "name": "Infinix Phones",
+        "slug": "infinix-phones",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "27",
+        "root": "13",
+        "name": "Motorola Phones",
+        "slug": "motorola-phones",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "28",
+        "root": "13",
+        "name": "Tecno Phones",
+        "slug": "tecno-phones",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "29",
+        "root": "16",
+        "name": "Laptops & Notebooks",
+        "slug": "laptops-notebooks",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "30",
+        "root": "16",
+        "name": "Gaming Laptops",
+        "slug": "gaming-laptops",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "31",
+        "root": "16",
+        "name": "Macbook",
+        "slug": "macbook",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "32",
+        "root": "17",
+        "name": "All-In-One",
+        "slug": "all-in-one",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "33",
+        "root": "17",
+        "name": "Gaming Desktops",
+        "slug": "gaming-desktops",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "34",
+        "root": "18",
+        "name": "PlayStation Consoles",
+        "slug": "playstation-consoles",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "35",
+        "root": "18",
+        "name": "Playstation Games",
+        "slug": "playstation-games",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "36",
+        "root": "18",
+        "name": "Playstation Controllers",
+        "slug": "playstation-controllers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "37",
+        "root": "18",
+        "name": "Nintendo Games",
+        "slug": "nintendo-games",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "38",
+        "root": "18",
+        "name": "Xbox Games",
+        "slug": "xbox-games",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "39",
+        "root": "18",
+        "name": "Other Gaming Consoles",
+        "slug": "other-gaming-consoles",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "40",
+        "root": "19",
+        "name": "DSLR",
+        "slug": "dslr",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "41",
+        "root": "19",
+        "name": "Mirrorless",
+        "slug": "mirrorless",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "42",
+        "root": "19",
+        "name": "Point & Shoot",
+        "slug": "point-shoot",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "43",
+        "root": "19",
+        "name": "Bridge",
+        "slug": "bridge",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "44",
+        "root": "19",
+        "name": "Car Cameras",
+        "slug": "car-cameras",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "45",
+        "root": "19",
+        "name": "Action\/Video Cameras",
+        "slug": "action-video-cameras",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "46",
+        "root": "20",
+        "name": "IP Security Cameras",
+        "slug": "ip-security-cameras",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "47",
+        "root": "20",
+        "name": "IP Security Systems",
+        "slug": "ip-security-systems",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "48",
+        "root": "20",
+        "name": "CCTV Security Cameras",
+        "slug": "cctv-security-cameras",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "49",
+        "root": "20",
+        "name": "CCTV Security Systems",
+        "slug": "cctv-security-systems",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "50",
+        "root": "2",
+        "name": "Mobile Accessories",
+        "slug": "mobile-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "51",
+        "root": "2",
+        "name": "Audio",
+        "slug": "audio",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "52",
+        "root": "2",
+        "name": "Wearable",
+        "slug": "wearable",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "53",
+        "root": "2",
+        "name": "Console Accessories",
+        "slug": "console-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "54",
+        "root": "2",
+        "name": "Camera Accessories",
+        "slug": "camera-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "55",
+        "root": "2",
+        "name": "Computer Accessories",
+        "slug": "computer-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "56",
+        "root": "2",
+        "name": "Storage",
+        "slug": "storage",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "57",
+        "root": "2",
+        "name": "Printers",
+        "slug": "printers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "58",
+        "root": "2",
+        "name": "Computer Components",
+        "slug": "computer-components",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "59",
+        "root": "2",
+        "name": "Network Components",
+        "slug": "network-components",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "60",
+        "root": "2",
+        "name": "Software",
+        "slug": "software",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "61",
+        "root": "50",
+        "name": "Phone Cases",
+        "slug": "phone-cases",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "62",
+        "root": "50",
+        "name": "Power Banks",
+        "slug": "power-banks",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "63",
+        "root": "50",
+        "name": "Cables & Converters",
+        "slug": "cables-converters",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "64",
+        "root": "50",
+        "name": "Wall Chargers",
+        "slug": "wall-chargers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "65",
+        "root": "50",
+        "name": "Wireless Chargers",
+        "slug": "wireless-chargers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "66",
+        "root": "51",
+        "name": "Headphones & Headset",
+        "slug": "headphones-headset",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "67",
+        "root": "51",
+        "name": "Home Entertainment",
+        "slug": "home-entertainment",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "68",
+        "root": "51",
+        "name": "Bluetooth Speakers",
+        "slug": "bluetooth-speakers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "69",
+        "root": "51",
+        "name": "Live sound & Stage Equipment",
+        "slug": "live-sound-stage-equipment",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "70",
+        "root": "52",
+        "name": "Smartwatches",
+        "slug": "smartwatches",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "71",
+        "root": "52",
+        "name": "Virtual Reality",
+        "slug": "virtual-reality",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "72",
+        "root": "53",
+        "name": "Playstation Controller",
+        "slug": "playstation-controller",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "73",
+        "root": "53",
+        "name": "Other Gaming Accessories",
+        "slug": "other-gaming-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "74",
+        "root": "54",
+        "name": "Memory Cards",
+        "slug": "memory-cards",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "75",
+        "root": "54",
+        "name": "DSLR Lens",
+        "slug": "dslr-lens",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "76",
+        "root": "54",
+        "name": "Mirrorless Lens",
+        "slug": "mirrorless-lens",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "77",
+        "root": "54",
+        "name": "Special Camera Lens",
+        "slug": "special-camera-lens",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "78",
+        "root": "54",
+        "name": "Tripods & Monopods",
+        "slug": "tripods-monopods",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "79",
+        "root": "54",
+        "name": "Camera Cases, Covers, and Bags",
+        "slug": "camera-cases-covers-and-bags",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "80",
+        "root": "54",
+        "name": "Lighting & Studio Equipment",
+        "slug": "lighting-studio-equipment",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "81",
+        "root": "54",
+        "name": "Dry Box",
+        "slug": "dry-box",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "82",
+        "root": "54",
+        "name": "Batteries",
+        "slug": "batteries",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "83",
+        "root": "55",
+        "name": "Monitors",
+        "slug": "monitors",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "84",
+        "root": "55",
+        "name": "Mice",
+        "slug": "mice",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "85",
+        "root": "55",
+        "name": "PC Audio",
+        "slug": "pc-audio",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "86",
+        "root": "55",
+        "name": "Keyboards",
+        "slug": "keyboards",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "87",
+        "root": "55",
+        "name": "Mice & Keyboard Combos",
+        "slug": "mice-keyboard-combos",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "88",
+        "root": "0",
+        "name": "Power Cord & Adaptors",
+        "slug": "power-cord-adaptors",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "89",
+        "root": "56",
+        "name": "External Hard Drives",
+        "slug": "external-hard-drives",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "90",
+        "root": "56",
+        "name": "Internal Hard Drives",
+        "slug": "internal-hard-drives",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "91",
+        "root": "56",
+        "name": "Flash Drives",
+        "slug": "flash-drives",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "92",
+        "root": "56",
+        "name": "OTG Drives",
+        "slug": "otg-drives",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "93",
+        "root": "57",
+        "name": "Printer",
+        "slug": "printer",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "94",
+        "root": "57",
+        "name": "Ink & Toners",
+        "slug": "ink-toners",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "95",
+        "root": "57",
+        "name": "Printer Stands",
+        "slug": "printer-stands",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "96",
+        "root": "57",
+        "name": "Fax Machines",
+        "slug": "fax-machines",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "97",
+        "root": "58",
+        "name": "Graphic Cards",
+        "slug": "graphic-cards",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "98",
+        "root": "58",
+        "name": "Desktop Casings",
+        "slug": "desktop-casings",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "99",
+        "root": "58",
+        "name": "Motherboards",
+        "slug": "motherboards",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "100",
+        "root": "58",
+        "name": "Fans & Heatsinks",
+        "slug": "fans-heatsinks",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "101",
+        "root": "58",
+        "name": "Computer RAM",
+        "slug": "computer-ram",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "102",
+        "root": "58",
+        "name": "Processors",
+        "slug": "processors",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "103",
+        "root": "59",
+        "name": "Access Points",
+        "slug": "access-points",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "104",
+        "root": "59",
+        "name": "Modems",
+        "slug": "modems",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "105",
+        "root": "59",
+        "name": "Network Interface Cards",
+        "slug": "network-interface-cards",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "106",
+        "root": "59",
+        "name": "Network Switches",
+        "slug": "network-switches",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "107",
+        "root": "59",
+        "name": "Routers",
+        "slug": "routers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "108",
+        "root": "59",
+        "name": "Wireless USB Adapters",
+        "slug": "wireless-usb-adapters",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "109",
+        "root": "60",
+        "name": "Educational Media",
+        "slug": "educational-media",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "110",
+        "root": "60",
+        "name": "Operating System",
+        "slug": "operating-system",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "111",
+        "root": "60",
+        "name": "PC Games",
+        "slug": "pc-games",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "112",
+        "root": "60",
+        "name": "Security Software",
+        "slug": "security-software",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "113",
+        "root": "3",
+        "name": "Televisions",
+        "slug": "televisions",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "114",
+        "root": "3",
+        "name": "Home Audio",
+        "slug": "home-audio",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "115",
+        "root": "3",
+        "name": "TV Accessories & Video Device",
+        "slug": "tv-accessories-video-device",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "116",
+        "root": "3",
+        "name": "Large Appliances",
+        "slug": "large-appliances",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "117",
+        "root": "3",
+        "name": "Small Kitchen Appliances",
+        "slug": "small-kitchen-appliances",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "118",
+        "root": "3",
+        "name": "Cooling & Heating",
+        "slug": "cooling-heating",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "119",
+        "root": "3",
+        "name": "Vacuums & Floor Care",
+        "slug": "vacuums-floor-care",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "120",
+        "root": "3",
+        "name": "Irons & Garment Steamers",
+        "slug": "irons-garment-steamers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "121",
+        "root": "3",
+        "name": "Water Purifiers & Filters",
+        "slug": "water-purifiers-filters",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "122",
+        "root": "113",
+        "name": "Smart Televisions",
+        "slug": "smart-televisions",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "123",
+        "root": "113",
+        "name": "LED Televisions",
+        "slug": "led-televisions",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "124",
+        "root": "113",
+        "name": "OLED Televisions",
+        "slug": "oled-televisions",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "125",
+        "root": "113",
+        "name": "Other Televisions",
+        "slug": "other-televisions",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "126",
+        "root": "114",
+        "name": "Soundbars",
+        "slug": "soundbars",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "127",
+        "root": "114",
+        "name": "Home Entertainments",
+        "slug": "home-entertainments",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "128",
+        "root": "114",
+        "name": "Portable Players",
+        "slug": "portable-players",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "129",
+        "root": "0",
+        "name": "Live Sound & Stage Equipments",
+        "slug": "live-sound-stage-equipments",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "130",
+        "root": "115",
+        "name": "TV Receivers",
+        "slug": "tv-receivers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "131",
+        "root": "115",
+        "name": "Projectors",
+        "slug": "projectors",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "132",
+        "root": "115",
+        "name": "TV Remote Controllers",
+        "slug": "tv-remote-controllers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "133",
+        "root": "115",
+        "name": "Cables",
+        "slug": "cables",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "134",
+        "root": "115",
+        "name": "Wall Mounts & Protectors",
+        "slug": "wall-mounts-protectors",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "135",
+        "root": "115",
+        "name": "Blu-Ray\/DVD Players",
+        "slug": "blu-ray-dvd-players",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "136",
+        "root": "116",
+        "name": "Refrigerators",
+        "slug": "refrigerators",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "137",
+        "root": "116",
+        "name": "Freezers",
+        "slug": "freezers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "138",
+        "root": "116",
+        "name": "Washing Machines",
+        "slug": "washing-machines",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "139",
+        "root": "116",
+        "name": "Microwave Oven",
+        "slug": "microwave-oven",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "140",
+        "root": "116",
+        "name": "Electric Oven",
+        "slug": "electric-oven",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "141",
+        "root": "116",
+        "name": "Hoods",
+        "slug": "hoods",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "142",
+        "root": "116",
+        "name": "Cooktop & Range",
+        "slug": "cooktop-range",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "143",
+        "root": "117",
+        "name": "Rice Cooker",
+        "slug": "rice-cooker",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "144",
+        "root": "117",
+        "name": "Blender, Mixer & Grinder",
+        "slug": "blender-mixer-grinder",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "145",
+        "root": "117",
+        "name": "Electric Kettle",
+        "slug": "electric-kettle",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "146",
+        "root": "117",
+        "name": "Juicer & Fruit Extraction",
+        "slug": "juicer-fruit-extraction",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "147",
+        "root": "117",
+        "name": "Fryer",
+        "slug": "fryer",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "148",
+        "root": "117",
+        "name": "Coffee Machine",
+        "slug": "coffee-machine",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "149",
+        "root": "117",
+        "name": "Pressure Cookers",
+        "slug": "pressure-cookers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "150",
+        "root": "117",
+        "name": "Sandwich Makers",
+        "slug": "sandwich-makers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "151",
+        "root": "117",
+        "name": "Specialty Cookware",
+        "slug": "specialty-cookware",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "152",
+        "root": "117",
+        "name": "Toasters",
+        "slug": "toasters",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "153",
+        "root": "118",
+        "name": "Cooling Fan",
+        "slug": "cooling-fan",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "154",
+        "root": "118",
+        "name": "Air Conditioner",
+        "slug": "air-conditioner",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "155",
+        "root": "118",
+        "name": "Air Coolers",
+        "slug": "air-coolers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "156",
+        "root": "118",
+        "name": "Air Purifiers",
+        "slug": "air-purifiers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "157",
+        "root": "118",
+        "name": "Dehumidifiers",
+        "slug": "dehumidifiers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "158",
+        "root": "118",
+        "name": "Water Heater",
+        "slug": "water-heater",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "159",
+        "root": "119",
+        "name": "Vacuum Cleaners",
+        "slug": "vacuum-cleaners",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "160",
+        "root": "119",
+        "name": "Steam Mops",
+        "slug": "steam-mops",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "161",
+        "root": "119",
+        "name": "Vacuum Cleaner Parts",
+        "slug": "vacuum-cleaner-parts",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "162",
+        "root": "120",
+        "name": "Irons",
+        "slug": "irons",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "163",
+        "root": "120",
+        "name": "Sewing Machines",
+        "slug": "sewing-machines",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "164",
+        "root": "4",
+        "name": "Bath & Body",
+        "slug": "bath-body",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "165",
+        "root": "4",
+        "name": "Beauty Tools",
+        "slug": "beauty-tools",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "166",
+        "root": "4",
+        "name": "Fragrances",
+        "slug": "fragrances",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "167",
+        "root": "4",
+        "name": "Hair Care",
+        "slug": "hair-care",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "168",
+        "root": "4",
+        "name": "Makeup",
+        "slug": "makeup",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "169",
+        "root": "4",
+        "name": "Men's Care",
+        "slug": "men-s-care",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "170",
+        "root": "4",
+        "name": "Personal Care",
+        "slug": "personal-care",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "171",
+        "root": "4",
+        "name": "Skin Care",
+        "slug": "skin-care",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "172",
+        "root": "4",
+        "name": "Food Supplements",
+        "slug": "food-supplements",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "173",
+        "root": "4",
+        "name": "Medical Supplies",
+        "slug": "medical-supplies",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "174",
+        "root": "164",
+        "name": "Body & Massage Oils",
+        "slug": "body-massage-oils",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "175",
+        "root": "164",
+        "name": "Body Moisturizers",
+        "slug": "body-moisturizers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "176",
+        "root": "164",
+        "name": "Body Scrubs",
+        "slug": "body-scrubs",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "177",
+        "root": "164",
+        "name": "Body Soaps & Shower Gels",
+        "slug": "body-soaps-shower-gels",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "178",
+        "root": "164",
+        "name": "Foot Care",
+        "slug": "foot-care",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "179",
+        "root": "164",
+        "name": "Hair Removal",
+        "slug": "hair-removal",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "180",
+        "root": "164",
+        "name": "Hand Care",
+        "slug": "hand-care",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "181",
+        "root": "164",
+        "name": "Sun Care for Body",
+        "slug": "sun-care-for-body",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "182",
+        "root": "164",
+        "name": "Bath & Body Accessories",
+        "slug": "bath-body-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "183",
+        "root": "165",
+        "name": "Curling Irons & Wands",
+        "slug": "curling-irons-wands",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "184",
+        "root": "165",
+        "name": "Flat Irons",
+        "slug": "flat-irons",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "185",
+        "root": "165",
+        "name": "Multi-stylers",
+        "slug": "multi-stylers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "186",
+        "root": "165",
+        "name": "Hair Dryers",
+        "slug": "hair-dryers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "187",
+        "root": "165",
+        "name": "Face Skin Care Tools",
+        "slug": "face-skin-care-tools",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "188",
+        "root": "165",
+        "name": "Foot Relief Tools",
+        "slug": "foot-relief-tools",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "189",
+        "root": "165",
+        "name": "Hair Removal Accessories",
+        "slug": "hair-removal-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "190",
+        "root": "165",
+        "name": "Slimming & Electric Massagers",
+        "slug": "slimming-electric-massagers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "191",
+        "root": "167",
+        "name": "Shampoo",
+        "slug": "shampoo",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "192",
+        "root": "167",
+        "name": "Hair Treatments",
+        "slug": "hair-treatments",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "193",
+        "root": "167",
+        "name": "Hair Care Accessories",
+        "slug": "hair-care-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "194",
+        "root": "167",
+        "name": "Hair Brushes & Combs",
+        "slug": "hair-brushes-combs",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "195",
+        "root": "167",
+        "name": "Hair Coloring",
+        "slug": "hair-coloring",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "196",
+        "root": "167",
+        "name": "Hair Conditioner",
+        "slug": "hair-conditioner",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "197",
+        "root": "167",
+        "name": "Wig & Hair Extensions & Pads",
+        "slug": "wig-hair-extensions-pads",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "198",
+        "root": "168",
+        "name": "Face",
+        "slug": "face",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "199",
+        "root": "168",
+        "name": "Lips",
+        "slug": "lips",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "200",
+        "root": "168",
+        "name": "Eyes",
+        "slug": "eyes",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "201",
+        "root": "168",
+        "name": "Nails",
+        "slug": "nails",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "202",
+        "root": "168",
+        "name": "Palettes & Sets",
+        "slug": "palettes-sets",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "203",
+        "root": "168",
+        "name": "Brushes & Sets",
+        "slug": "brushes-sets",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "204",
+        "root": "168",
+        "name": "Makeup Accessories",
+        "slug": "makeup-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "205",
+        "root": "168",
+        "name": "Makeup Removers",
+        "slug": "makeup-removers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "206",
+        "root": "169",
+        "name": "Deodorants",
+        "slug": "deodorants",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "207",
+        "root": "169",
+        "name": "Men's Hair Care",
+        "slug": "men-s-hair-care",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "208",
+        "root": "169",
+        "name": "Shaving & Grooming",
+        "slug": "shaving-grooming",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "209",
+        "root": "169",
+        "name": "Men's Skin Care",
+        "slug": "men-s-skin-care",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "210",
+        "root": "0",
+        "name": "Deodorant",
+        "slug": "deodorant",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "211",
+        "root": "170",
+        "name": "Feminine Care",
+        "slug": "feminine-care",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "212",
+        "root": "170",
+        "name": "Oral Care",
+        "slug": "oral-care",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "213",
+        "root": "170",
+        "name": "Personal Safety & Security",
+        "slug": "personal-safety-security",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "214",
+        "root": "171",
+        "name": "Moisturizers & Creams",
+        "slug": "moisturizers-creams",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "215",
+        "root": "171",
+        "name": "Serum & Essence",
+        "slug": "serum-essence",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "216",
+        "root": "171",
+        "name": "Face Mask & Packs",
+        "slug": "face-mask-packs",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "217",
+        "root": "171",
+        "name": "Face Scrubs & Exfoliators",
+        "slug": "face-scrubs-exfoliators",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "218",
+        "root": "171",
+        "name": "Facial Cleansers",
+        "slug": "facial-cleansers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "219",
+        "root": "171",
+        "name": "Lip Balm & Treatments",
+        "slug": "lip-balm-treatments",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "220",
+        "root": "171",
+        "name": "Toner & Mists",
+        "slug": "toner-mists",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "221",
+        "root": "172",
+        "name": "Beauty Supplements",
+        "slug": "beauty-supplements",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "222",
+        "root": "172",
+        "name": "Multivitamins",
+        "slug": "multivitamins",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "223",
+        "root": "172",
+        "name": "Sports Nutrition",
+        "slug": "sports-nutrition",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "224",
+        "root": "172",
+        "name": "Well Being",
+        "slug": "well-being",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "225",
+        "root": "172",
+        "name": "Sexual Health Vitamins",
+        "slug": "sexual-health-vitamins",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "226",
+        "root": "173",
+        "name": "First Aid Supplies",
+        "slug": "first-aid-supplies",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "227",
+        "root": "173",
+        "name": "Health Accessories",
+        "slug": "health-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "228",
+        "root": "173",
+        "name": "Health Monitors & Tests",
+        "slug": "health-monitors-tests",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "229",
+        "root": "173",
+        "name": "Injury Support & Braces",
+        "slug": "injury-support-braces",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "230",
+        "root": "173",
+        "name": "Medical Tests",
+        "slug": "medical-tests",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "231",
+        "root": "173",
+        "name": "Nebulizers & Aspirators",
+        "slug": "nebulizers-aspirators",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "232",
+        "root": "173",
+        "name": "Ointments & Creams",
+        "slug": "ointments-creams",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "233",
+        "root": "173",
+        "name": "Scales & Body Fat Analyzers",
+        "slug": "scales-body-fat-analyzers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "234",
+        "root": "173",
+        "name": "Wheelchairs",
+        "slug": "wheelchairs",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "235",
+        "root": "5",
+        "name": "Mother & Baby",
+        "slug": "mother-baby",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "236",
+        "root": "5",
+        "name": "Feeding",
+        "slug": "feeding",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "237",
+        "root": "5",
+        "name": "Diapering & Potty",
+        "slug": "diapering-potty",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "238",
+        "root": "5",
+        "name": "Baby Gear",
+        "slug": "baby-gear",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "239",
+        "root": "5",
+        "name": "Baby Personal Care",
+        "slug": "baby-personal-care",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "240",
+        "root": "5",
+        "name": "Clothing & Accessories",
+        "slug": "clothing-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "241",
+        "root": "5",
+        "name": "Nursery",
+        "slug": "nursery",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "242",
+        "root": "5",
+        "name": "Toys & Games",
+        "slug": "toys-games",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "243",
+        "root": "5",
+        "name": "Baby & Toddler Toys",
+        "slug": "baby-toddler-toys",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "244",
+        "root": "5",
+        "name": "Remote Control & Vehicles",
+        "slug": "remote-control-vehicles",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "245",
+        "root": "5",
+        "name": "Sports & Outdoor Play",
+        "slug": "sports-outdoor-play",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "246",
+        "root": "5",
+        "name": "Traditional Games",
+        "slug": "traditional-games",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "247",
+        "root": "236",
+        "name": "Baby & Toddler Foods",
+        "slug": "baby-toddler-foods",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "248",
+        "root": "236",
+        "name": "Milk Formula",
+        "slug": "milk-formula",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "249",
+        "root": "237",
+        "name": "Cloth Diapers & Accessories",
+        "slug": "cloth-diapers-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "250",
+        "root": "237",
+        "name": "Diaper Bags",
+        "slug": "diaper-bags",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "251",
+        "root": "237",
+        "name": "Wipes & Holders",
+        "slug": "wipes-holders",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "252",
+        "root": "237",
+        "name": "Disposable Diapers",
+        "slug": "disposable-diapers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "253",
+        "root": "238",
+        "name": "Baby Walkers",
+        "slug": "baby-walkers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "254",
+        "root": "238",
+        "name": "Backpacks & Carriers",
+        "slug": "backpacks-carriers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "255",
+        "root": "238",
+        "name": "Strollers",
+        "slug": "strollers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "256",
+        "root": "238",
+        "name": "Swings, Jumpers & Bouncers",
+        "slug": "swings-jumpers-bouncers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "257",
+        "root": "239",
+        "name": "Baby Bath",
+        "slug": "baby-bath",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "258",
+        "root": "239",
+        "name": "Bathing Tubs & Seats",
+        "slug": "bathing-tubs-seats",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "259",
+        "root": "239",
+        "name": "Shampoo & Conditioners",
+        "slug": "shampoo-conditioners",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "260",
+        "root": "239",
+        "name": "Soaps, Cleansers & Bodywash",
+        "slug": "soaps-cleansers-bodywash",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "261",
+        "root": "240",
+        "name": "Girls Clothing",
+        "slug": "girls-clothing",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "262",
+        "root": "240",
+        "name": "Girls Shoes",
+        "slug": "girls-shoes",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "263",
+        "root": "240",
+        "name": "Boys Clothing",
+        "slug": "boys-clothing",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "264",
+        "root": "240",
+        "name": "Maternity Wear",
+        "slug": "maternity-wear",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "265",
+        "root": "240",
+        "name": "New Born Unisex (0 - 6 months)",
+        "slug": "new-born-unisex-0-6-months",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "266",
+        "root": "240",
+        "name": "New Born Body Suits",
+        "slug": "new-born-body-suits",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "267",
+        "root": "240",
+        "name": "New Born Sets & Packs",
+        "slug": "new-born-sets-packs",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "268",
+        "root": "241",
+        "name": "Bathroom Safety",
+        "slug": "bathroom-safety",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "269",
+        "root": "241",
+        "name": "Mattresses & Bedding",
+        "slug": "mattresses-bedding",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "270",
+        "root": "241",
+        "name": "Sanitizers",
+        "slug": "sanitizers",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "271",
+        "root": "242",
+        "name": "Action Figures & Collectibles",
+        "slug": "action-figures-collectibles",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "272",
+        "root": "242",
+        "name": "Arts & Crafts for Kids",
+        "slug": "arts-crafts-for-kids",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "273",
+        "root": "242",
+        "name": "Ball Prit & Accessories",
+        "slug": "ball-prit-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "274",
+        "root": "242",
+        "name": "Block & Building Toys",
+        "slug": "block-building-toys",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "275",
+        "root": "242",
+        "name": "Doll & Accessories",
+        "slug": "doll-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "276",
+        "root": "242",
+        "name": "Dress Up & Pretend Play",
+        "slug": "dress-up-pretend-play",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "277",
+        "root": "242",
+        "name": "Electronic toys",
+        "slug": "electronic-toys",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "278",
+        "root": "242",
+        "name": "Learning & Education",
+        "slug": "learning-education",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "279",
+        "root": "242",
+        "name": "Party Supplies",
+        "slug": "party-supplies",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "280",
+        "root": "242",
+        "name": "Puzzle",
+        "slug": "puzzle",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "281",
+        "root": "242",
+        "name": "Slime & Squishy Toys",
+        "slug": "slime-squishy-toys",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "282",
+        "root": "242",
+        "name": "Stuffed Toys",
+        "slug": "stuffed-toys",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "283",
+        "root": "243",
+        "name": "Activity Gym & Playmats",
+        "slug": "activity-gym-playmats",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "284",
+        "root": "243",
+        "name": "Ball",
+        "slug": "ball",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "285",
+        "root": "243",
+        "name": "Bath Toys",
+        "slug": "bath-toys",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "286",
+        "root": "243",
+        "name": "Crib Toys & Attachments",
+        "slug": "crib-toys-attachments",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "287",
+        "root": "243",
+        "name": "Early Learning",
+        "slug": "early-learning",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "288",
+        "root": "243",
+        "name": "Indoor Climbers & Structures",
+        "slug": "indoor-climbers-structures",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "289",
+        "root": "243",
+        "name": "Push & Pull Toys",
+        "slug": "push-pull-toys",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "290",
+        "root": "243",
+        "name": "Rocking & Spring Ride-Ons",
+        "slug": "rocking-spring-ride-ons",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "291",
+        "root": "244",
+        "name": "Die-Cast Vehicles",
+        "slug": "die-cast-vehicles",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "292",
+        "root": "244",
+        "name": "RC Vehicles & Batteries",
+        "slug": "rc-vehicles-batteries",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "293",
+        "root": "244",
+        "name": "Play Trains & Railway Sets",
+        "slug": "play-trains-railway-sets",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "294",
+        "root": "244",
+        "name": "Play Vehicles",
+        "slug": "play-vehicles",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "295",
+        "root": "244",
+        "name": "Drones & Accessories",
+        "slug": "drones-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "296",
+        "root": "245",
+        "name": "Fidget Spinners & Cubes",
+        "slug": "fidget-spinners-cubes",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "297",
+        "root": "245",
+        "name": "Kids Bikes & Accessories",
+        "slug": "kids-bikes-accessories",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "298",
+        "root": "245",
+        "name": "Swimming Pool & Water Toys",
+        "slug": "swimming-pool-water-toys",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "299",
+        "root": "245",
+        "name": "Outdoor Toys",
+        "slug": "outdoor-toys",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "300",
+        "root": "245",
+        "name": "Play Tents & Tunnels",
+        "slug": "play-tents-tunnels",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "301",
+        "root": "245",
+        "name": "Boxing",
+        "slug": "boxing",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "302",
+        "root": "245",
+        "name": "Play Sets & Playground Equipment",
+        "slug": "play-sets-playground-equipment",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "303",
+        "root": "245",
+        "name": "Sports Play",
+        "slug": "sports-play",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "304",
+        "root": "245",
+        "name": "Kids Tricycles",
+        "slug": "kids-tricycles",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "305",
+        "root": "245",
+        "name": "Toys Sports",
+        "slug": "toys-sports",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "306",
+        "root": "246",
+        "name": "Board Games",
+        "slug": "board-games",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "307",
+        "root": "246",
+        "name": "Card Games",
+        "slug": "card-games",
+        "status": "active",
+        "user_id": "1"
+    },
+    {
+        "id": "308",
+        "root": "246",
+        "name": "Game Room Games",
+        "slug": "game-room-games",
+        "status": "active",
+        "user_id": "1"
+    }
+]

@@ -1,0 +1,74 @@
+@extends("backend.includes.app")
+
+@section('title', 'Create brand')
+
+@section('main-content')
+    <div class="row pt-2 pb-2">
+        <div class="col-sm-9">
+            <h4 class="page-title">@yield('title')</h4>
+        </div>
+        <div class="col-sm-3">
+            <div class="btn-group float-sm-right">
+                <a href="{{ route('staff.brands.index') }}" type="button"
+                    class="btn btn-primary waves-effect waves-light"><i class="fa fa-plus-circle mr-1"></i> Manage
+                    brands</a>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-8 offset-2">
+            <div>
+                <x-alert />
+            </div>
+            <div class="card">
+
+                <div class="card-body">
+                    <div class="card-title text-center">Brand create form</div>
+                    <hr>
+                    <form action="{{ route('staff.brands.store') }}" method="POST" class="brand-create"
+                        enctype="multipart/form-data">
+
+                        <div class="form-group">
+                            <label for="name">Name</label>
+                            <input type="text" value="{{ old('name') }}" class="form-control" id="name" name="name"
+                                placeholder="Enter brand name">
+                            <span class="text-danger">
+                                @error('name')
+                                    {{ $message }}
+                                @enderror
+                            </span>
+                        </div>
+                        <div class="form-group">
+                            <label for="name">Slug</label>
+                            <input type="text" value="{{ old('slug') }}" class="form-control" id="slug" name="slug"
+                                placeholder="Enter slug">
+                            <span class="text-danger">
+                                @error('slug')
+                                    {{ $message }}
+                                @enderror
+                            </span>
+                        </div>
+                        <div class="form-group">
+                            <label for="name">Icon</label>
+                            <input type="file" class="form-control" name="icon">
+                        </div>
+
+                        <div class="form-group inline-flex text-center">
+                            <span class="m-2">
+                                <input type="radio" id="active" name="status" value="active" checked="">
+                                <label for="active">Active</label>
+                            </span>
+                            <span class="m-2">
+                                <input type="radio" id="inactive" name="status" value="inactive">
+                                <label for="inactive">Inactive</label>
+                            </span>
+                        </div>
+                        <div class="form-group text-right">
+                            <button type="submit" class="btn btn-primary px-5"><i class="icon-lock"></i> Submit</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+@endsection
